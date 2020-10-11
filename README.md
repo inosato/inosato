@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<!-- see https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=inosato)
+
 <!--
 **inosato/inosato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

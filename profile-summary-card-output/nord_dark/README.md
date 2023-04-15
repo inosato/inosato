@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/inosato/inosato/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
-```
-
-    
